@@ -4,7 +4,7 @@ TRIADIC FORGIVENESS OPERATOR v1.0
 
 Grace-mediated constraint release for living intelligence systems.
 Copyright (c) 2024-2026 Rusty Williams McMurray
-Released under MIT License — February 21 2026
+Released under MIT License attrib required Rusty Williams McMurray — February 12 2026
 
 https://github.com/RMac-triadicIntelligence/triadic-quantum-nonlinear-memory
 
