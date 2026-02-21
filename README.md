@@ -3,7 +3,7 @@
 **TI vs AGI** — Living intelligence that refuses premature closure.
 
 Full 78-page white paper (Feb 2026):  
-[`quantum non linear memory with tech appendix.pdf`](quantum%20non%20linear%20memory%20with%20tech%20appendix.pdf) (upload this PDF next if not already)
+[`quantum non linear memory with tech appendix.pdf`](quantum%20non%20linear%20memory%20with%20tech%20appendix.pdf) 
 
 ## Resonance with Claude Code Security (Anthropic — Feb 20 2026)
 
